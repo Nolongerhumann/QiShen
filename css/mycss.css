@@ -1,0 +1,114 @@
+/*
+body {
+  background: url("../img/jet.jpg");  
+}
+
+#mystyle {
+    
+}*/
+
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url("../img/jet.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container{
+/*    font-family:  'Ubuntu', sans-serif;*/
+/* font-family:  'Anonymous Pro', monospace;*/
+/*   font-family: Montserrat;*/
+    
+/*    font-family: Shadows Into Light Two;*/
+/*    font-family: 'Athiti', sans-serif;*/
+    font-family: monospace;
+}
+
+/*
+.btn {
+  box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.1) !important;
+  padding: 1.25rem 2rem;
+  font-family:  Shadows Into Light Two;
+  font-size: 80%;
+  text-transform: uppercase;
+  letter-spacing: .15rem;
+  border: 0;
+}
+*/
+
+#bottom {
+ position : relative;
+  top : 730px;
+  bottom: 20px;
+  left: 850px;
+  right: 0px;  
+  z-index: 2;
+}
+
+
+#one {
+ position : relative;
+  top : 390px;
+  bottom: 20px;
+  left:510px;
+  right: 100px;  
+  z-index: 2;
+    color: #db0000;
+/*     font-weight: bold;*/
+}
+
+#two {
+ position :relative;
+  top : 680px;
+  bottom: 20px;
+  left:500px;
+  right: 0px;  
+  z-index: 2;
+}
+
+#three {
+ position : relative;
+  top : 700px;
+  bottom: 20px;
+  left: 500px;
+  right: 0px;  
+  z-index: 2;
+}
+
+#four {
+ position : relative;
+  top : 760px;
+  bottom: 20px;
+  left: 500px;
+  right: 0px;  
+  z-index: 2;
+}
+
+
+#defaultCanvas0 {
+
+  position : absolute;
+  top : 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  
+  }
+
+#project-container{
+    p.ex1 {
+ padding-top: 70px;
+    }
+    }
+
+#padding{
+    
+    
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
